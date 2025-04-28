@@ -1,5 +1,6 @@
-In this project I will create a To Do List with many more features for praticing my bash skill.
+# In this project I designed to create To Do List by using Bash script as the language, to practice my coding skills.
 
+## Feature
 - Add a Task: User can add tasks to the list.
 - List Tasks: View all tasks in the list.
 - Mark as Done: Mark a task as completed.
